@@ -1,6 +1,1 @@
-2018-08-04 0525
-one
-two
-three
-four
-five
+This is the way to write a readme file so it looks OK!
